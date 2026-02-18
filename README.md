@@ -1,2 +1,11 @@
-# Britney19
-"My first GitHub repo - exploring Git and version control and I'm also looking forward to understand more about coding, creating websites, creative ideas, technology. This might help me in my future career to come and it can also create employment because a lot of jobs need people who can operate a computer or laptop. So learning will boost me."
+#Hi, I'm Britney 
+#Currently learning 
+Git 
+GitHub 
+HTML 
+#INTERESTS 
+Technology 
+Coding 
+Creative ideas 
+#FUN FACTS 
+I'm learning GitHub using my phone 
